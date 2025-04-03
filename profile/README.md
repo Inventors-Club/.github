@@ -3,4 +3,4 @@
 ### Term 2 2025
 **Soundboard**
 
-A working online soundboard using **html**, **Javascript**, and **CSS**
+A working online soundboard using **HTML**, **JavaScript**, and **CSS**
