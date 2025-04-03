@@ -1,5 +1,6 @@
 # Inventors Club Official Github
 
 ### Term 2 2025
-**Soundboards**
+**Soundboard**
+
 A working online soundboard using **html**, **Javascript**, and **CSS**
